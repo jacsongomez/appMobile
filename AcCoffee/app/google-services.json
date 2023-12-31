@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618986812039",
+    "project_id": "accoffee-f54b1",
+    "storage_bucket": "accoffee-f54b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618986812039:android:80ba19353a5c512d51be22",
+        "android_client_info": {
+          "package_name": "com.example.accoffee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq_I7Yjnr50Ih4Zo0GZPkBMj10_FbOs48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

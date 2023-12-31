@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AcCoffee</string>
+
+    <string name="btn_registrar_pantalla">Registrarse</string>
+    <string name="btn_iniciar_sesion">Iniciar Sesion</string>
+    <string name="btn_registrarse">Registrarse</string>
+    <string name="btn_cerrar_sesion">Cerrar Sesion</string>
+    <string name="btn_volver">Volver</string>
+</resources>
